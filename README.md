@@ -1,2 +1,4 @@
+![GitHub license](https://img.shields.io/github/license/dabumana/pocvtk)
+
 # PoCVTK
- Volumetric contour DICOM visualizer and STL generator from poly data.
+ Volumetric contour DICOM visualizer and STL generator.
